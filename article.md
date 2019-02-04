@@ -1,7 +1,7 @@
 ---
 title: 'your-title-here'
 author: 'lastname, firstname'
-date: 2019-02-04 11:58:22
+date: year-month-day
 cover_index: preferred-image-450x450pixels.png
 cover_detail: preferred-image-1300x500pixels.png
 doi: we-take-care-of-this
@@ -10,7 +10,6 @@ tags:
 - appropriate
 - keywords or phrases
 - like this
-date: year-month-day
 ---
 
 AUTHOR FIRST NAME LAST NAME
